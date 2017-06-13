@@ -22,6 +22,7 @@
                             <executable>npm</executable>
                             <arguments>
                                 <argument>install</argument>
+                                <argument>-s</argument>
                             </arguments>
                         </configuration>
                     </execution>
