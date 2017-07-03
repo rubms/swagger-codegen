@@ -802,6 +802,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [QuantiModo](https://quantimo.do/)
 - [QuickBlox](https://quickblox.com/)
 - [Rapid7](https://rapid7.com/)
+- [Recreativos Franco](http://www.rfranco.com/)
 - [Reload! A/S](https://reload.dk/)
 - [REstore](https://www.restore.eu)
 - [Revault Sàrl](http://revault.ch)
